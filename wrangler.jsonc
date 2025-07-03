@@ -1,6 +1,6 @@
 // wrangler.jsonc
 {
-  "name": "index.html",
+  "name": "cloud-pages",
   "compatibility_date": "2025-07-01",
   "site": {
     "bucket": "./public",
